@@ -1,0 +1,41 @@
+    body {
+        margin: 30px;
+        background-color: #ffffff;
+    }
+    
+    .besink {
+        color: #1a1f2c;
+        font-family: 'Varela Round', sans-serif;
+        font-size: 30px;
+        padding: 40px 5px 0 20px;
+    }
+    
+    .pd-navi-bar {
+        padding: 50px 150px 0px 190px;
+        display: inline;
+    }
+    
+    .pd-navi * {
+        display: inline;
+    }
+    
+    .services {
+        padding: 0px 50px 0px 0px;
+    }
+    
+    .pd-navi-en {
+        padding: 40px 5px 0 40px;
+    }
+    
+    .pd-navi-eng {
+        padding: 50px 5px 0 80px;
+    }
+    
+    .btn-success {
+        width: 150px;
+        height: 30px;
+        text-align: center;
+        border-radius: 12px;
+    }
+    
+    .mv-navigation-bar {}
