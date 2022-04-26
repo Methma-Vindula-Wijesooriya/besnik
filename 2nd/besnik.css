@@ -1,41 +1,84 @@
-    body {
-        margin: 30px;
-        background-color: #ffffff;
-    }
-    
-    .besink {
-        color: #1a1f2c;
-        font-family: 'Varela Round', sans-serif;
-        font-size: 30px;
-        padding: 40px 5px 0 20px;
-    }
-    
-    .pd-navi-bar {
-        padding: 50px 150px 0px 190px;
-        display: inline;
-    }
-    
-    .pd-navi * {
-        display: inline;
-    }
-    
-    .services {
-        padding: 0px 50px 0px 0px;
-    }
-    
-    .pd-navi-en {
-        padding: 40px 5px 0 40px;
-    }
-    
-    .pd-navi-eng {
-        padding: 50px 5px 0 80px;
-    }
-    
-    .btn-success {
-        width: 150px;
-        height: 30px;
-        text-align: center;
-        border-radius: 12px;
-    }
-    
-    .mv-navigation-bar {}
+        body {
+            margin: 30px;
+            background-color: #ffffff;
+        }
+        
+        .besink {
+            color: #1a1f2c;
+            font-family: 'Exo 2', sans-serif;
+            font-size: 25px;
+            padding: 40px 5px 0 23px
+        }
+        
+        .mv-navi-bar {
+            padding: 50px 150px 0px 190px;
+            display: inline;
+        }
+        
+        .mv-navi * {
+            display: inline;
+        }
+        
+        .services {
+            padding: 0px 50px 0px 0px;
+        }
+        
+        .mv-navi-en {
+            padding: 40px 5px 0 40px;
+        }
+        
+        .mv-navi-eng {
+            padding: 50px 5px 0 80px;
+        }
+        
+        .btn-success {
+            width: 150px;
+            height: 30px;
+            text-align: center;
+            border-radius: 12px;
+        }
+        
+        .btn-df-green {
+            background-color: #00dc65;
+            display: inline-block;
+            border: none;
+            padding: 9px 32px 10px 32px;
+            border-radius: 25px;
+            color: #ffffff;
+            font-size: 14px;
+            outline: none !important;
+            box-shadow: 0px 2px 13px -5px #0000008c;
+        }
+        
+        .mv-topic {
+            font-family: 'Rubik', sans-serif;
+            color: #1a1f2c;
+            font-size: 50px;
+            padding: 40px 5px 0 20px;
+        }
+        
+        .mv-explain {
+            padding: 5px 0px 0px 12px;
+        }
+        
+        .mv-detail-btn {
+            padding: 40px 20px 0px 20px;
+        }
+        
+        .mv-learn-btn {
+            background-color: #00dc65;
+            display: inline-block;
+            border: none;
+            padding: 9px 32px 10px 32px;
+            border-radius: 25px;
+            color: #ffffff;
+            font-size: 14px;
+            outline: none !important;
+            box-shadow: 0px 2px 13px -5px #0000008c;
+        }
+        
+        .mv-detail-btn .mv-learn-btn {
+            display: inline;
+        }
+        
+        .mv-navigation-bar {}
