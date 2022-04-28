@@ -11,7 +11,7 @@
         }
         
         .mv-navi-bar {
-            padding: 50px 150px 0px 190px;
+            padding: 50px 150px 0px 100px;
             display: inline;
         }
         
@@ -24,11 +24,11 @@
         }
         
         .mv-navi-en {
-            padding: 40px 5px 0 40px;
+            padding: 40px 5px 0 35px;
         }
         
         .mv-navi-eng {
-            padding: 50px 5px 0 80px;
+            padding: 50px 5px 0 30px;
         }
         
         .btn-success {
@@ -39,7 +39,7 @@
         }
         
         .btn-df-green {
-            background-color: #00dc65;
+            background-color: #06d459;
             display: inline-block;
             border: none;
             padding: 9px 32px 10px 32px;
@@ -59,26 +59,38 @@
         
         .mv-explain {
             padding: 5px 0px 0px 12px;
+            margin: 244px 0px 0px -462px
         }
         
         .mv-detail-btn {
             padding: 40px 20px 0px 20px;
+            margin: 323px 65px 66px -456px;
         }
         
         .mv-learn-btn {
-            background-color: #00dc65;
+            background-color: #ffffff;
             display: inline-block;
-            border: none;
-            padding: 9px 32px 10px 32px;
+            /* border: none; */
+            border-color: #06d459;
             border-radius: 25px;
-            color: #ffffff;
+            color: #06d459;
             font-size: 14px;
-            outline: none !important;
-            box-shadow: 0px 2px 13px -5px #0000008c;
+            padding: 4px 36px 8px 36px
         }
         
         .mv-detail-btn .mv-learn-btn {
             display: inline;
+            margin-left: 50px;
         }
         
-        .mv-navigation-bar {}
+        .img-developer {
+            margin: -390px 0px 50px 490px;
+        }
+        
+        .mv-details .img-developer {
+            display: inline;
+        }
+        
+        .mv-details {
+            margin: 44px 0px 0px 0px;
+        }
