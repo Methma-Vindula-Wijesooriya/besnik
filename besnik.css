@@ -75,7 +75,7 @@
             border-radius: 25px;
             color: #06d459;
             font-size: 14px;
-            padding: 4px 36px 8px 36px
+            padding: 8px 28px 8px 28px
         }
         
         .mv-detail-btn .mv-learn-btn {
@@ -93,4 +93,62 @@
         
         .mv-details {
             margin: 44px 0px 0px 0px;
+        }
+        
+        .mv-our-srevice {
+            font-family: 'Dosis', sans-serif;
+            font-size: 28px;
+            padding: 10px 0px 0px 218px;
+            color: hsl(200, 18%, 71%);
+        }
+        
+        .mv-sites {
+            display: inline;
+            margin: 30px 0px 0px 0px;
+        }
+        
+        .mv-site-one {
+            padding: 9px 85px 0px 70px;
+            font-family: 'Mukta', sans-serif;
+            font-size: 30px;
+            color: #818593;
+        }
+        
+        .mv-site-two {
+            padding: 0px 85px 0px 0px;
+            font-family: 'Josefin Sans', sans-serif;
+            font-size: 40px;
+            color: #818593;
+        }
+        
+        .mv-site-three {
+            padding: 10px 85px 0px 0px;
+            font-family: 'Radio Canada', sans-serif;
+            font-size: 30px;
+            color: #818593;
+        }
+        
+        .mv-site-four {
+            padding: 16px 85px 0px 0px;
+            font-family: 'Special Elite', cursive;
+            font-size: 30px;
+            color: #818593;
+        }
+        
+        .mv-site-five {
+            padding: 17px 85px 0px 0px;
+            font-family: 'Special Elite', cursive;
+            font-size: 30px;
+            color: #818593;
+        }
+        
+        .mv-what-we-do-topic {
+            padding: 120px 0px 0px 380px;
+            font-size: 45px;
+            font-family: 'Radio Canada', sans-serif;
+        }
+        
+        .mv-what-we-do-details {
+            padding: 10px 0px 0px 230px;
+            text-indent: 74px;
         }
