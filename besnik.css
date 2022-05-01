@@ -85,6 +85,11 @@
         
         .img-developer {
             margin: -390px 0px 50px 490px;
+            object-fit: cover;
+        }
+        
+        .img-developer img {
+            object-fit: cover;
         }
         
         .mv-details .img-developer {
@@ -103,12 +108,12 @@
         }
         
         .mv-sites {
-            display: inline;
+            display: flex;
             margin: 30px 0px 0px 0px;
         }
         
         .mv-site-one {
-            padding: 9px 85px 0px 70px;
+            padding: 9px 85px 0px 0px;
             font-family: 'Mukta', sans-serif;
             font-size: 30px;
             color: #818593;
@@ -151,4 +156,8 @@
         .mv-what-we-do-details {
             padding: 10px 0px 0px 230px;
             text-indent: 74px;
+        }
+        
+        .mv-container {
+            padding: 90px 0px 0px 0px;
         }
