@@ -1,326 +1,363 @@
-                                            body {
-                                                margin: 30px;
-                                                background-color: #ffffff;
-                                            }
-                                            
-                                            .besink {
-                                                color: #1a1f2c;
-                                                font-family: 'Exo 2', sans-serif;
-                                                font-size: 25px;
-                                                padding: 40px 5px 0 23px
-                                            }
-                                            
-                                            .mv-navi-bar {
-                                                padding: 50px 150px 0px 100px;
-                                                display: inline;
-                                            }
-                                            
-                                            .mv-navi * {
-                                                display: inline;
-                                            }
-                                            
-                                            .services {
-                                                padding: 0px 50px 0px 0px;
-                                            }
-                                            
-                                            .mv-navi-en {
-                                                padding: 40px 5px 0 35px;
-                                            }
-                                            
-                                            .mv-navi-eng {
-                                                padding: 50px 5px 0 30px;
-                                            }
-                                            
-                                            .btn-success {
-                                                width: 150px;
-                                                height: 30px;
-                                                text-align: center;
-                                                border-radius: 12px;
-                                            }
-                                            
-                                            .btn-df-green {
-                                                background-color: #06d459;
-                                                display: inline-block;
-                                                border: none;
-                                                padding: 9px 32px 10px 32px;
-                                                border-radius: 25px;
-                                                color: #ffffff;
-                                                font-size: 14px;
-                                                outline: none !important;
-                                                box-shadow: 0px 2px 13px -5px #0000008c;
-                                            }
-                                            
-                                            .mv-topic {
-                                                font-family: 'Rubik', sans-serif;
-                                                color: #1a1f2c;
-                                                font-size: 50px;
-                                                padding: 40px 5px 0 20px;
-                                            }
-                                            
-                                            .mv-explain {
-                                                padding: 5px 0px 0px 12px;
-                                                margin: 244px 0px 0px -462px
-                                            }
-                                            
-                                            .mv-detail-btn {
-                                                padding: 40px 20px 0px 20px;
-                                                margin: 323px 65px 66px -456px;
-                                            }
-                                            
-                                            .mv-learn-btn {
-                                                background-color: #ffffff;
-                                                display: inline-block;
-                                                /* border: none; */
-                                                border-color: #06d459;
-                                                border-radius: 25px;
-                                                color: #06d459;
-                                                font-size: 14px;
-                                                padding: 8px 28px 8px 28px
-                                            }
-                                            
-                                            .mv-detail-btn .mv-learn-btn {
-                                                display: inline;
-                                                margin-left: 50px;
-                                            }
-                                            
-                                            .img-developer {
-                                                margin: -390px 0px 50px 490px;
-                                                object-fit: cover;
-                                            }
-                                            
-                                            .img-developer img {
-                                                object-fit: cover;
-                                            }
-                                            
-                                            .mv-details .img-developer {
-                                                display: inline;
-                                            }
-                                            
-                                            .mv-details {
-                                                margin: 44px 0px 0px 0px;
-                                            }
-                                            
-                                            .mv-our-srevice {
-                                                font-family: 'Dosis', sans-serif;
-                                                font-size: 28px;
-                                                padding: 10px 0px 0px 218px;
-                                                color: hsl(200, 18%, 71%);
-                                            }
-                                            
-                                            .mv-sites {
-                                                display: flex;
-                                                margin: 30px 0px 0px 0px;
-                                            }
-                                            
-                                            .mv-site-one {
-                                                padding: 9px 85px 0px 0px;
-                                                font-family: 'Mukta', sans-serif;
-                                                font-size: 30px;
-                                                color: #818593;
-                                            }
-                                            
-                                            .mv-site-two {
-                                                padding: 0px 85px 0px 0px;
-                                                font-family: 'Josefin Sans', sans-serif;
-                                                font-size: 40px;
-                                                color: #818593;
-                                            }
-                                            
-                                            .mv-site-three {
-                                                padding: 10px 85px 0px 0px;
-                                                font-family: 'Radio Canada', sans-serif;
-                                                font-size: 30px;
-                                                color: #818593;
-                                            }
-                                            
-                                            .mv-site-four {
-                                                padding: 16px 85px 0px 0px;
-                                                font-family: 'Special Elite', cursive;
-                                                font-size: 30px;
-                                                color: #818593;
-                                            }
-                                            
-                                            .mv-site-five {
-                                                padding: 17px 85px 0px 0px;
-                                                font-family: 'Special Elite', cursive;
-                                                font-size: 30px;
-                                                color: #818593;
-                                            }
-                                            
-                                            .mv-what-we-do-topic {
-                                                padding: 120px 0px 0px 380px;
-                                                font-size: 45px;
-                                                font-family: 'Radio Canada', sans-serif;
-                                            }
-                                            
-                                            .mv-what-we-do-details {
-                                                padding: 10px 0px 0px 230px;
-                                                text-indent: 74px;
-                                            }
-                                            
-                                            .mv-container {
-                                                padding: 90px 0px 0px 0px;
-                                            }
-                                            
-                                            .justify-content-md-center-one {
-                                                padding: 70px 50px 0px 30px;
-                                            }
-                                            
-                                            .justify-content-md-center-two {
-                                                padding: 50px 50px 40px 30px;
-                                            }
-                                            
-                                            .image-icon {
-                                                object-fit: cover;
-                                                margin: 20px 130px 0px 130px;
-                                            }
-                                            
-                                            .justify-content-md-center-one h1 {
-                                                text-indent: 8px;
-                                                font-size: 25px;
-                                                text-align: center;
-                                            }
-                                            
-                                            .justify-content-md-center-one h6 {
-                                                text-align: center;
-                                                color: #5ba288;
-                                                padding: 35px 0px 0px 0px;
-                                            }
-                                            
-                                            .justify-content-md-center-one p {
-                                                text-align: center;
-                                            }
-                                            
-                                            .mv-btn-icon {
-                                                background-color: #ffffff;
-                                                border: none;
-                                            }
-                                            
-                                            .mv-navi-panal {
-                                                background-color: #ececf1;
-                                                margin: 41px 0px 0px 0px;
-                                            }
-                                            
-                                            .client-topic {
-                                                text-indent: -85px;
-                                                padding: 142px 0px 90px 677px;
-                                                font-size: 35px;
-                                            }
-                                            
-                                            .mv-underline {
-                                                border-bottom: 4px solid #90cab1;
-                                                text-indent: 12px;
-                                                width: 142px;
-                                                border-radius: 4px;
-                                                padding: 0px 0px 13px 0px;
-                                            }
-                                            
-                                            .mv-people {
-                                                padding: 30px 240px 100px 240px;
-                                            }
-                                            
-                                            .justify-content-md-center {
-                                                padding: 0px 0px 0px 160px;
-                                                background-color: #ececf1;
-                                            }
-                                            
-                                            .mv-people-one {
-                                                /* margin: 30px 130px 1px -150px; */
-                                                margin: 38px 60px 0px -121px;
-                                                background-color: #ffffff;
-                                            }
-                                            
-                                            .mv-people-two {
-                                                background-color: #ffffff;
-                                                margin: 38px 25px 0px -36px;
-                                                /* margin: 30px 0px 20px -26px; */
-                                            }
-                                            
-                                            .mv-client-img img {
-                                                object-fit: cover;
-                                                margin: 20px 130px 20px 21px;
-                                                border-radius: 50%;
-                                            }
-                                            
-                                            .mv-client-ideas {
-                                                padding: 30px 10px 1px 0px;
-                                            }
-                                            
-                                            .client-name {
-                                                margin: 18px 0px 0px -107px;
-                                            }
-                                            
-                                            .mv-contact {
-                                                background-color: #272f42;
-                                                padding: 0px 0px 100px 0px;
-                                            }
-                                            
-                                            .col-three.mv-invite {
-                                                color: #ffffff;
-                                                padding: 106px 0px 0px 153px;
-                                            }
-                                            
-                                            .mv-invite h1 {
-                                                font-size: 22px;
-                                            }
-                                            
-                                            .col-three.mv-invite p {
-                                                font-size: 13px;
-                                                padding: 39px 0px 0px 0px;
-                                            }
-                                            
-                                            .mv-invite h6 {
-                                                padding: 25px 0px 0px 0px;
-                                            }
-                                            
-                                            .fa {
-                                                padding: 9px;
-                                                font-size: 30px;
-                                                width: 30px;
-                                                text-align: center;
-                                                text-decoration: none;
-                                                margin: 5px 2px;
-                                                border-radius: 50%;
-                                            }
-                                            
-                                            .fa-twitter,
-                                            .fa-google,
-                                            .fa-facebook,
-                                            .fa-linkedin {
-                                                background: #3c4357;
-                                                color: rgb(252, 252, 252);
-                                            }
-                                            
-                                            .mv-contact-us {
-                                                color: #ffffff;
-                                                padding: 97px 0px 0px 150px;
-                                            }
-                                            
-                                            .mv-name input,
-                                            .mv-mail input,
-                                            .mv-msg input {
-                                                background: transparent;
-                                                border: none;
-                                                border-bottom: 1px solid #000000;
-                                                width: 270px;
-                                            }
-                                            
-                                            .mv-name input {
-                                                margin: 40px 0px 17px -42px;
-                                            }
-                                            
-                                            .mv-mail input {
-                                                margin: 40px 0px 17px -33px;
-                                            }
-                                            
-                                            .mv-msg input {
-                                                margin: 40px 0px 17px -102px;
-                                            }
-                                            
-                                            .mv-contact-us label {
-                                                padding: 10px 0px 0px 20px;
-                                            }
-                                            
-                                            .mv-end-button {
-                                                margin: 40px 0px 0px 0px;
-                                            }
+                                                                body {
+                                                                    margin: 30px;
+                                                                    background-color: #ffffff;
+                                                                }
+                                                                
+                                                                .besink {
+                                                                    color: #1a1f2c;
+                                                                    font-family: 'Exo 2', sans-serif;
+                                                                    font-size: 25px;
+                                                                    padding: 40px 5px 0 23px
+                                                                }
+                                                                
+                                                                .mv-navi-bar {
+                                                                    padding: 50px 150px 0px 100px;
+                                                                    display: inline;
+                                                                }
+                                                                
+                                                                .mv-navi * {
+                                                                    display: inline;
+                                                                }
+                                                                
+                                                                .services {
+                                                                    padding: 0px 50px 0px 0px;
+                                                                }
+                                                                
+                                                                .mv-navi-en {
+                                                                    padding: 40px 5px 0 35px;
+                                                                }
+                                                                
+                                                                .mv-navi-eng {
+                                                                    padding: 50px 5px 0 30px;
+                                                                }
+                                                                
+                                                                .btn-success {
+                                                                    width: 150px;
+                                                                    height: 30px;
+                                                                    text-align: center;
+                                                                    border-radius: 12px;
+                                                                }
+                                                                
+                                                                .btn-df-green {
+                                                                    background-color: #06d459;
+                                                                    display: inline-block;
+                                                                    border: none;
+                                                                    padding: 9px 32px 10px 32px;
+                                                                    border-radius: 25px;
+                                                                    color: #ffffff;
+                                                                    font-size: 14px;
+                                                                    outline: none !important;
+                                                                    box-shadow: 0px 2px 13px -5px #0000008c;
+                                                                }
+                                                                
+                                                                .mv-topic {
+                                                                    font-family: 'Rubik', sans-serif;
+                                                                    color: #1a1f2c;
+                                                                    font-size: 50px;
+                                                                    padding: 40px 5px 0 20px;
+                                                                }
+                                                                
+                                                                .mv-explain {
+                                                                    padding: 5px 0px 0px 12px;
+                                                                    margin: 244px 0px 0px -462px
+                                                                }
+                                                                
+                                                                .mv-detail-btn {
+                                                                    padding: 40px 20px 0px 20px;
+                                                                    margin: 323px 65px 66px -456px;
+                                                                }
+                                                                
+                                                                .mv-learn-btn {
+                                                                    background-color: #ffffff;
+                                                                    display: inline-block;
+                                                                    /* border: none; */
+                                                                    border-color: #06d459;
+                                                                    border-radius: 25px;
+                                                                    color: #06d459;
+                                                                    font-size: 14px;
+                                                                    padding: 8px 28px 8px 28px
+                                                                }
+                                                                
+                                                                .mv-detail-btn .mv-learn-btn {
+                                                                    display: inline;
+                                                                    margin-left: 50px;
+                                                                }
+                                                                
+                                                                .img-developer {
+                                                                    margin: -390px 0px 50px 490px;
+                                                                    object-fit: cover;
+                                                                }
+                                                                
+                                                                .img-developer img {
+                                                                    object-fit: cover;
+                                                                }
+                                                                
+                                                                .mv-details .img-developer {
+                                                                    display: inline;
+                                                                }
+                                                                
+                                                                .mv-details {
+                                                                    margin: 44px 0px 0px 0px;
+                                                                }
+                                                                
+                                                                .mv-our-srevice {
+                                                                    font-family: 'Dosis', sans-serif;
+                                                                    font-size: 28px;
+                                                                    padding: 10px 0px 0px 218px;
+                                                                    color: hsl(200, 18%, 71%);
+                                                                }
+                                                                
+                                                                .mv-sites {
+                                                                    display: flex;
+                                                                    margin: 30px 0px 0px 0px;
+                                                                }
+                                                                
+                                                                .mv-site-one {
+                                                                    padding: 9px 85px 0px 0px;
+                                                                    font-family: 'Mukta', sans-serif;
+                                                                    font-size: 30px;
+                                                                    color: #818593;
+                                                                }
+                                                                
+                                                                .mv-site-two {
+                                                                    padding: 0px 85px 0px 0px;
+                                                                    font-family: 'Josefin Sans', sans-serif;
+                                                                    font-size: 40px;
+                                                                    color: #818593;
+                                                                }
+                                                                
+                                                                .mv-site-three {
+                                                                    padding: 10px 85px 0px 0px;
+                                                                    font-family: 'Radio Canada', sans-serif;
+                                                                    font-size: 30px;
+                                                                    color: #818593;
+                                                                }
+                                                                
+                                                                .mv-site-four {
+                                                                    padding: 16px 85px 0px 0px;
+                                                                    font-family: 'Special Elite', cursive;
+                                                                    font-size: 30px;
+                                                                    color: #818593;
+                                                                }
+                                                                
+                                                                .mv-site-five {
+                                                                    padding: 17px 85px 0px 0px;
+                                                                    font-family: 'Special Elite', cursive;
+                                                                    font-size: 30px;
+                                                                    color: #818593;
+                                                                }
+                                                                
+                                                                .mv-what-we-do-topic {
+                                                                    padding: 120px 0px 0px 380px;
+                                                                    font-size: 45px;
+                                                                    font-family: 'Radio Canada', sans-serif;
+                                                                }
+                                                                
+                                                                .mv-what-we-do-details {
+                                                                    padding: 10px 0px 0px 230px;
+                                                                    text-indent: 74px;
+                                                                }
+                                                                
+                                                                .mv-container {
+                                                                    padding: 90px 0px 0px 0px;
+                                                                }
+                                                                
+                                                                .justify-content-md-center-one {
+                                                                    padding: 70px 50px 0px 30px;
+                                                                }
+                                                                
+                                                                .justify-content-md-center-two {
+                                                                    padding: 50px 50px 40px 30px;
+                                                                }
+                                                                
+                                                                .image-icon {
+                                                                    object-fit: cover;
+                                                                    margin: 20px 130px 0px 130px;
+                                                                }
+                                                                
+                                                                .justify-content-md-center-one h1 {
+                                                                    text-indent: 8px;
+                                                                    font-size: 25px;
+                                                                    text-align: center;
+                                                                }
+                                                                
+                                                                .justify-content-md-center-one h6 {
+                                                                    text-align: center;
+                                                                    color: #5ba288;
+                                                                    padding: 35px 0px 0px 0px;
+                                                                }
+                                                                
+                                                                .justify-content-md-center-one p {
+                                                                    text-align: center;
+                                                                }
+                                                                
+                                                                .mv-btn-icon {
+                                                                    background-color: #ffffff;
+                                                                    border: none;
+                                                                }
+                                                                
+                                                                .mv-navi-panal {
+                                                                    background-color: #ececf1;
+                                                                    margin: 41px 0px 0px 0px;
+                                                                }
+                                                                
+                                                                .client-topic {
+                                                                    text-indent: -85px;
+                                                                    padding: 142px 0px 90px 677px;
+                                                                    font-size: 35px;
+                                                                }
+                                                                
+                                                                .mv-underline {
+                                                                    border-bottom: 4px solid #90cab1;
+                                                                    text-indent: 12px;
+                                                                    width: 142px;
+                                                                    border-radius: 4px;
+                                                                    padding: 0px 0px 13px 0px;
+                                                                }
+                                                                
+                                                                .mv-people {
+                                                                    padding: 30px 240px 100px 240px;
+                                                                }
+                                                                
+                                                                .justify-content-md-center {
+                                                                    padding: 0px 0px 0px 160px;
+                                                                    background-color: #ececf1;
+                                                                }
+                                                                
+                                                                .mv-people-one {
+                                                                    /* margin: 30px 130px 1px -150px; */
+                                                                    margin: 38px 60px 0px -121px;
+                                                                    background-color: #ffffff;
+                                                                }
+                                                                
+                                                                .mv-people-two {
+                                                                    background-color: #ffffff;
+                                                                    margin: 38px 25px 0px -36px;
+                                                                    /* margin: 30px 0px 20px -26px; */
+                                                                }
+                                                                
+                                                                .mv-client-img img {
+                                                                    object-fit: cover;
+                                                                    margin: 20px 130px 20px 21px;
+                                                                    border-radius: 50%;
+                                                                }
+                                                                
+                                                                .mv-client-ideas {
+                                                                    padding: 30px 10px 1px 0px;
+                                                                }
+                                                                
+                                                                .client-name {
+                                                                    margin: 18px 0px 0px -107px;
+                                                                }
+                                                                
+                                                                .mv-contact {
+                                                                    background-color: #272f42;
+                                                                    padding: 0px 0px 50px 0px;
+                                                                    margin: 0px 0px -17px 0px;
+                                                                }
+                                                                
+                                                                .col-three.mv-invite {
+                                                                    color: #ffffff;
+                                                                    padding: 106px 0px 0px 153px;
+                                                                }
+                                                                
+                                                                .mv-invite h1 {
+                                                                    font-size: 22px;
+                                                                }
+                                                                
+                                                                .col-three.mv-invite p {
+                                                                    font-size: 13px;
+                                                                    padding: 39px 0px 0px 0px;
+                                                                }
+                                                                
+                                                                .mv-invite h6 {
+                                                                    padding: 25px 0px 0px 0px;
+                                                                }
+                                                                
+                                                                .fa {
+                                                                    padding: 9px;
+                                                                    font-size: 30px;
+                                                                    width: 30px;
+                                                                    text-align: center;
+                                                                    text-decoration: none;
+                                                                    margin: 5px 2px;
+                                                                    border-radius: 50%;
+                                                                }
+                                                                
+                                                                .fa-twitter,
+                                                                .fa-google,
+                                                                .fa-facebook,
+                                                                .fa-linkedin {
+                                                                    background: #3c4357;
+                                                                    color: rgb(252, 252, 252);
+                                                                }
+                                                                
+                                                                .mv-contact-us {
+                                                                    color: #ffffff;
+                                                                    padding: 97px 0px 0px 150px;
+                                                                }
+                                                                
+                                                                .mv-name input,
+                                                                .mv-mail input,
+                                                                .mv-msg input {
+                                                                    background: transparent;
+                                                                    border: none;
+                                                                    border-bottom: 1px solid #000000;
+                                                                    width: 270px;
+                                                                }
+                                                                
+                                                                .mv-name input {
+                                                                    margin: 40px 0px 17px -42px;
+                                                                }
+                                                                
+                                                                .mv-mail input {
+                                                                    margin: 40px 0px 17px -33px;
+                                                                }
+                                                                
+                                                                .mv-msg input {
+                                                                    margin: 40px 0px 17px -102px;
+                                                                }
+                                                                
+                                                                .mv-contact-us label {
+                                                                    padding: 10px 0px 0px 20px;
+                                                                }
+                                                                
+                                                                .mv-end-button {
+                                                                    margin: 40px 0px 0px 0px;
+                                                                }
+                                                                
+                                                                .horizontal-line {
+                                                                    display: inline-block;
+                                                                    border-top: 5px solid #2c3548;
+                                                                    margin: 60px 0px 0px 0px;
+                                                                }
+                                                                
+                                                                .hr1 {
+                                                                    width: 1140px;
+                                                                }
+                                                                
+                                                                .mv-bottom-navi-bar {
+                                                                    background-color: #272f42;
+                                                                    padding: 50px 0px 100px 0px;
+                                                                    margin: 0px 0px -17px 0px;
+                                                                    color: #ffffff;
+                                                                }
+                                                                
+                                                                .mv-list-one {
+                                                                    margin: 0px 0px 0px 150px;
+                                                                }
+                                                                
+                                                                .mv-list-num-one,
+                                                                .mv-list-num-two,
+                                                                .mv-list-num-three {
+                                                                    list-style-type: none;
+                                                                    margin: 20px 0px 0px -39px;
+                                                                }
+                                                                
+                                                                .besink-foot {
+                                                                    margin: 135px 0px 0px -860px;
+                                                                    color: #ffffff;
+                                                                    font-family: 'Exo 2', sans-serif;
+                                                                    font-size: 25px;
+                                                                    padding: 40px 5px 0 23px
+                                                                }
