@@ -221,19 +221,17 @@
                                                                 
                                                                 .justify-content-md-center {
                                                                     padding: 0px 0px 0px 160px;
-                                                                    background-color: #ececf1;
+                                                                    /* background-color: #ececf1; */
                                                                 }
                                                                 
                                                                 .mv-people-one {
-                                                                    /* margin: 30px 130px 1px -150px; */
+                                                                    border: 1px solid #818593;
                                                                     margin: 38px 60px 0px -121px;
-                                                                    background-color: #ffffff;
                                                                 }
                                                                 
                                                                 .mv-people-two {
-                                                                    background-color: #ffffff;
                                                                     margin: 38px 25px 0px -36px;
-                                                                    /* margin: 30px 0px 20px -26px; */
+                                                                    border: 1px solid #818593;
                                                                 }
                                                                 
                                                                 .mv-client-img img {
