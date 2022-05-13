@@ -382,5 +382,25 @@ body {
     .mv-what-we-do-details {
         padding: 0px 0px 0px 109px;
     }
-    .mv-btn-icon {}
+    .justify-content-md-center-one {
+        padding: 0px 0px 0px 211px;
+    }
+    .client-topic {
+        padding: 60px 0px 0px 322px
+    }
+    .mv-people {
+        padding: 0px 0px 30px 78px;
+    }
+    .client-name {
+        padding: 0px 0px 0px 22px;
+    }
+    .mv-last-cont {
+        padding: 0px 0px 0px 121px;
+    }
+    .mv-list-two,
+    .mv-list-three,
+    .mv-list-three,
+    .besink-foot {
+        margin: 25px 0px 0px 146px;
+    }
 }
